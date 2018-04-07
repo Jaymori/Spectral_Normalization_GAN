@@ -1,0 +1,2 @@
+# Spectral_Normalization_GAN
+Spectral_Normalization_GAN for study
